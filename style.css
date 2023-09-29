@@ -1,0 +1,93 @@
+body{ 
+    font-family: 'Poppins', sans-serif;
+    margin: 0 150px;
+  }
+
+nav{
+    margin-bottom: 150px;
+    margin-top: 50px;
+    text-align: right;
+    
+}
+
+#home {
+    color:#D1884F ;
+}
+li{
+    color: black;
+    display: inline-block;
+    font-size: 26px;
+    margin: 0 30px;
+}
+
+
+.container {
+display: flex;
+}
+
+.welcome{
+    font-size: 26px;
+    color: #3BBADB;
+    margin-bottom: 75px;
+}
+
+.introduction {
+    font-weight: 500;
+    font-size: 40px;
+    width: 550px;
+    margin-bottom: 75px;
+    margin-right: 100px;
+    color:#008AAA;
+
+}
+.job{
+    color: #D1884F;
+}
+
+p{
+    color:#3BBADB ;
+    width: 500px;
+    color: black;
+    margin-bottom: 100px;
+}
+
+span{
+    color: #3BBADB;
+}
+
+.container2{
+    display: flex;
+}
+
+.box1{
+    background-color: #008AAA;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 21px;
+    text-shadow: #D1884F;
+}
+.box2{
+    background-color: white;
+    border-width: 2px;
+    border-color:  #008AAA;
+    border-style: solid;
+    width: 220px;
+    border-radius: 10px;
+    font-size: 21px;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 8px;
+    color: #3BBADB;
+    
+}
+
+img{
+    width: 700px;
+    border-radius:20px ;
+    border-bottom-left-radius:200px ;
+  
+}
